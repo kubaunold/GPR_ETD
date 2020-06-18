@@ -1,0 +1,2 @@
+rootProject.name='GPR_ETD'
+include ':app'
